@@ -1,4 +1,4 @@
 # Things to read #
----
-[](https://101blockchains.com/contour-blockchain/)
+
+Voltron Blockchain Platform: <https://101blockchains.com/contour-blockchain/>
 
