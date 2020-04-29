@@ -60,7 +60,32 @@ Alternative Investment – Real Estate
   However, unlike online brokerage platforms, online payment processors, marketplace lending platforms, or automated registered investment advisors, we are focused on sponsoring and directly offering to investors (without the costs associated with such intermediaries), alternative investments, in particular real estate, which, according to a Prequin report as of the end of 2017, as an asset class (defined as real estate, private equity and hedge funds) hit a record high of $8.8 trillion in 2017 and was forecast to grow to $14 trillion by 2023.
 
 
-* What are the other major companies in this domain?
+* What are the other major companies in this domain?   
+
+
+  There are two different entities in the real estate investment, the traditional REITs and the crowdfunding or Fintech-based ones.  
+  For traditional REITs, there are about 1,100 in the United States, among which 225 REITs are registered with the SEC that trade on one of the major stock exchanges - the majority on the NYSE.   
+  If we narrow down to Fintech domain, Fundrise is competing with Realty Mogul and Crowdstreet. They all have common features in,   
+
+  |Limited Liquidity | Real estate crowdfunding investments are long term in nature and typically can't be liquidated until the deal pays out. | 
+  | -------------------------| ------------------------------------|   
+  | Potential to Lose Money | True with all three platforms. |    
+  | IRA Accounts | Offered by all three platforms. |
+  | Customer Service | All three platforms are available only during regular business hours. |  
+
+   Below are the areas where Fundrise, Realty Mogul and Crowdstreet differ.   
+   |Platform Purpose| Fundrise and Realty Mogul invest in both commercial and residential properties. Crowdstreet invests only in commercial. | 
+  | -------------------------| ------------------------------------|   
+  | Accredited Investor Requirement | You must be an accredited investor to use Crowdstreet. Realty Mogul offers some investments that are only for accredited investors and others that are open to all. |    
+  | Investments offered | Fundrise offers REITs and eFunds. Realty Mogul offers REITs and private placements. Crowdstreet offers investments in individual properties only. |
+  | Fees | Fundrise and Crowdstreet are available in all 50 states. Realty Mogul doesn't indicate availability. |    
+  | Availability| Offered by all three platforms. |
+  | Income Distributions | Fundrise income distributions are monthly. Realty Mogul are monthly or quarterly. Crowdstreet distributions are monthly or less frequently, depending on the type of investment. |    
+
+
+
+
+
 
 
 ## Results
@@ -78,7 +103,8 @@ Alternative Investment – Real Estate
 * How is your company performing relative to competitors in the same domain?   
 Based on the five-year net returns comparison with public REITs and public sotcks, represented by Vanguard Real Estate ETF and Vanguard Total Stock Market ETF, respectively, Fundrise outperformed the two benchmarks.   
 ![benchmark](Fundrise_5_year_Net_Return_Comparison.png)    
-
+    
+ 
 
 ## Recommendations
 
@@ -89,4 +115,11 @@ Based on the five-year net returns comparison with public REITs and public sotck
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
+
+
+https://www.reit.com/what-reit/frequently-asked-questions-about-reits
+https://investorjunkie.com/real-estate/fundrise-vs-realty-mogul-vs-crowdstreet/
 ```
