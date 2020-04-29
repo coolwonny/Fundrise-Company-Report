@@ -38,9 +38,23 @@ What solution does this company offer that their competitors do not or cannot of
      
   The company owns and operates an online, direct investment technology platform called the Fundrise Platform. It enables thousands of individuals from across the country to create the scale of an institutional investor without the high fees and overhead typical of the old-fashioned investment business.  Investors use the Fundrise Platform to potentially earn attractive risk-adjusted returns from asset classes that have generally been closed to many investors and only available to high net worth investors and institutions.
 
-  By combining sound investment principles with our proprietary web-based technology, we believe we have built a solution that will transform how the real estate capital markets operate, increasing their efficiency and transparency. Our model is built specifically to leverage the economies of scale created by the Internet to cut out excessive fees, while also lowering execution costs and reducing both time and manual resources.
+  By combining sound investment principles with our proprietary web-based technology, we believe we have built a solution that will transform how the real estate capital markets operate, increasing their efficiency and transparency. Our model is built specifically to leverage the economies of scale created by the Internet to cut out excessive fees, while also lowering execution costs and reducing both time and manual resources.    
 
+  Fundrise offers two primary investments, eREITs and eFunds (eFunds will be covered a bit further down in this article).
 
+  eREITs are funds that invest in commercial real estate, including office buildings, retail shopping centers and related properties.
+
+  Fundrise offers seven different eREITs:
+  |East Coast eREIT| Holds debt and equity investments in commercial properties located on the East Coast. | 
+  | -------------------------| ------------------------------------|   
+  | Heartland eREIT | Uses the same investment approach, except with properties located specifically in the Midwest region. |    
+  | Income eREIT 2019| FInvests in senior and mezzanine debt with the aim of maximizing current income. It has a current annualized dividend of 8.50%. |
+  | Income eREIT | Also invests primarily in debt investments to generate steady income, though it does this primarily by investing in smaller market properties. The current annual dividend yield is 7.50%. |    
+  | Growth eREIT| Fund that focuses on acquiring commercial properties that have potential for capital appreciation. Invests primarily in multifamily properties, acquired at below market value. |
+  | Growth eREIT 2019 | This is a recently created fund also oriented toward capital appreciation. |   
+  | Growth eREIT V | New eREIT that has not yet acquired properties. Similar to the Growth eREIT, it will focus on capital appreciation. |     
+
+s
 
 * Which technologies are they currently using, and how are they implementing them?   
 Fundrise uses Java, Amazon CloudFront, Google Analytics, Mixpanel, G Suite and AdRoll for its technology.
