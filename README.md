@@ -179,14 +179,14 @@ By allowing fractional ownership, blockchain also lowers the barriers to real es
 **References**  
 
 https://fundrise.com/   
-https://www.reit.com/what-reit/frequently-asked-questions-about-reits   
-https://en.wikipedia.org/wiki/Fundrise   
-https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640967&owner=exclude&count=40&hidefilings=0   
-https://www.mymoneyblog.com/fundrise-starter-portfolio-vs-reit-etf-review.html
-https://investorjunkie.com/reviews/fundrise/  
-https://investorjunkie.com/real-estate/fundrise-vs-realty-mogul-vs-crowdstreet/   
-https://www.doughroller.net/real-estate-investing/fundrise-vs-realty-mogul/   
-https://www.investopedia.com/news/how-blockchain-technology-changing-real-estate/
-https://stackshare.io/companies/fundrise  
+https://www.reit.com/what-reit/frequently-asked-questions-about-reits      
+https://en.wikipedia.org/wiki/Fundrise      
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640967&owner=exclude&count=40&hidefilings=0      
+https://www.mymoneyblog.com/fundrise-starter-portfolio-vs-reit-etf-review.html     
+https://investorjunkie.com/reviews/fundrise/     
+https://investorjunkie.com/real-estate/fundrise-vs-realty-mogul-vs-crowdstreet/       
+https://www.doughroller.net/real-estate-investing/fundrise-vs-realty-mogul/      
+https://www.investopedia.com/news/how-blockchain-technology-changing-real-estate/    
+https://stackshare.io/companies/fundrise     
 https://www.nerdwallet.com/reviews/investing/brokers/fundrise
 
