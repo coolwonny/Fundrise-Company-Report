@@ -8,23 +8,23 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 
 **Fundrise** is the first investment platform to create a simple, low-cost way for anyone to invest in real estate by minimizing fees and unlocking access for individuals with relatively small money
 
-Name of company      
+**Name of company**      
 
 > Fundrise 
 
-When was the company incorporated?   
+**When was the company incorporated?**   
   
 > Founded in 2010   
 
-Who are the founders of the company?    
+**Who are the founders of the company?**    
 
 > Brothers Ben and Dan Miller  
 
-How did the idea for the company (or project) come about?    
+**How did the idea for the company (or project) come about?**    
 
 > The brothers founded the company with the idea to allow residents in the D.C. area to invest in real estate development projects they were building. They knew there was a better way to invest, but that the majority of investors couldn’t get access to private investment alternatives. By building the first private market, direct investment platform, we’ve now made it possible for the everyday investor to have a portfolio like the most sophisticated, multi-billion dollar investment funds.   
 
-How is the company funded? How much funding have they received?   
+**How is the company funded? How much funding have they received?**   
 
 > $56 million from Renren, Guggenheim Partners and others. 
 
@@ -32,7 +32,7 @@ How is the company funded? How much funding have they received?
 
 ## Business Activities:
 
-What specific financial problem is the company or project trying to solve?   
+**What specific financial problem is the company or project trying to solve?**   
 
 >  The company saw the commercial real estate market had been dominated by institutional funds, creating inefiiciencies and distortions:   
   - individual investors lack the size and market power to access quality real estate investments and therefore must rely on accessing investments through institutional channels, resulting in receiving less share of profits after deducting large fees, overhead, and profit sharing interests.  
@@ -61,7 +61,7 @@ Fundrise offers seven different eREITs:
   | Growth eREIT V | New eREIT that has not yet acquired properties. Similar to the Growth eREIT, it will focus on capital appreciation. |     
 
 
-Which technologies are they currently using, and how are they implementing them?   
+**Which technologies are they currently using, and how are they implementing them?**   
  
 > Fundrise uses Java, Amazon CloudFront, Google Analytics, Mixpanel, G Suite and AdRoll for its technology.
 
@@ -69,11 +69,11 @@ Which technologies are they currently using, and how are they implementing them?
 
 ## Landscape:
 
-What domain of the financial industry is the company in?   
+**What domain of the financial industry is the company in?**   
 
 > Alternative Investment – Real Estate
 
-What have been the major trends and innovations of this domain over the last 5-10 years?   
+**What have been the major trends and innovations of this domain over the last 5-10 years?**   
 
 > Crowdfunding real estate investment platform are participating in and driving the third wave of a paradigm shift in the financial industry similar to the invention of and move to online brokerages and online payment systems that occurred in the late 1990s and 2000s, and the “marketplace lending” and automated registered investment advisor movements in the 2000s and 2010s.   
 
@@ -84,7 +84,7 @@ What have been the major trends and innovations of this domain over the last 5-1
    However, unlike online brokerage platforms, online payment processors, marketplace lending platforms, or automated registered investment advisors, Fundrise is focused on sponsoring and directly offering to investors (without the costs associated with such intermediaries), alternative investments, in particular real estate, which, according to a Prequin report as of the end of 2017, as an asset class (defined as real estate, private equity and hedge funds) hit a record high of $8.8 trillion in 2017 and was forecast to grow to $14 trillion by 2023.
 
 
-What are the other major companies in this domain?   
+**What are the other major companies in this domain?**   
 
 > There are two different entities in the real estate investment, the traditional REITs and the crowdfunding or Fintech-based ones.    
 
@@ -109,49 +109,50 @@ What are the other major companies in this domain?
 
 ## Results
 
-> What has been the business impact of this company so far?  
+**What has been the business impact of this company so far?**    
 
+>
   
 
-> What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?   
+**What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**   
 
-   We can measure success in the real estate investment by annualized returns. Based on these, Fundrise have well performed for six years.     
+> We can measure success in the real estate investment by annualized returns. Based on these, Fundrise have well performed for six years.     
 
 [Historical Performance]
 ![Historical Performance](Fundrise_historical_performance.png)   
 
 
 
-> How is your company performing relative to competitors in the same domain?   
+**How is your company performing relative to competitors in the same domain?**   
 
- Based on the five-year net returns comparison with public REITs and public sotcks, represented by Vanguard Real Estate ETF and Vanguard Total Stock Market ETF, respectively, Fundrise outperformed the two benchmarks.   
+> Based on the five-year net returns comparison with public REITs and public sotcks, represented by Vanguard Real Estate ETF and Vanguard Total Stock Market ETF, respectively, Fundrise outperformed the two benchmarks.   
 ![benchmark](Fundrise_5_year_Net_Return_Comparison.png)    
     
  
 
 ## Recommendations
 
-> If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)   
+**If you were to advise the company, what products or services would you suggest they offer?**   
 
-  Two things. Firstly, you have to come up with making it more liquid. Most of the concepts and services you provide are outstanding. However, when it comes to liquidity, there is no way to cash out from your product unless you pay an additional redemption fee, which takes about 3 months though, or you have to wait until the 5 years period is over. The beauty of other traditional REITs lies in its trading at the exchange. You need to find a way to make it publicly tradable or to lessen the redemption period and relevant fee for providing investors with liquidity.   
+> Two things. Firstly, you have to come up with making it more liquid. Most of the concepts and services you provide are outstanding. However, when it comes to liquidity, there is no way to cash out from your product unless you pay an additional redemption fee, which takes about 3 months though, or you have to wait until the 5 years period is over. The beauty of other traditional REITs lies in its trading at the exchange. You need to find a way to make it publicly tradable or to lessen the redemption period and relevant fee for providing investors with liquidity.   
 
-  Secondly, you need to consider about inducing foreign investors by providing a convenient, approachable platform for them. There are a lot of prospective individual investors outside the U.S. who interested in real estate investment in the U.S.properties. Two obstacles are refraining them from investing: Informational asymmetry and FX risk. 
+>  Secondly, you need to consider about inducing foreign investors by providing a convenient, approachable platform for them. There are a lot of prospective individual investors outside the U.S. who interested in real estate investment in the U.S.properties. Two obstacles are refraining them from investing: Informational asymmetry and FX risk. 
 
-  You may solve the informational asymmetry by advertising online(Youtube, Portal, etc) and providing the same materials into different languages the prospective investors use. Foreign Exchange issues are more complicated. It can be a fear of depreciation of their local currencies against dollars and/or it can be a matter of regulation and relevant tax on their return. However, enabling cryptocurrencies may solve this problem where foreign investors buy cryptocurrencies in their local currency, transferring them to Fundrise’s account for further investments. Global regulations on cryptocurrency-based cross-border transfers(or investments) are by far difficult to establish as there are different views on cybermoney by nations and it takes time to achieve consensus.      
-
-
-> Why do you think that offering this product or service would benefit the company?   
-
-   First of all, the more you make sure liquidity, the more individuals feel comfortable in using the platform. So far, you have been successful in lowering barriers investing in REITs, you may not keep that success unless you remove the clogs in your way to exit. Especially, people need quick cash in an uncertain environment like what we’ve been through for the last couple of months.
-
-   On the other hand, you need to have more spectrum in terms of new customers. You have already given services in the 50 states and been in operation for 8 years. Quite a lot of people might have heard about you and some of them might even have tried investments through your platform. Also, there is an increasing number of competitors in the market with a similar platform as yours. This means the US market is packed. You need to turn your eyes to the new demands beyond. You have been successful in bringing and implementing new ideas as a pioneer. Now you need to do that again to be a pioneer again for opening up the gate to the US eREITs market for foreign individuals who eager to widen their portfolio. Not only you watch a significant growth in your new accounts, but you may also be able to find a new market opportunity to extend your investments overseas for US individuals.
+>  You may solve the informational asymmetry by advertising online(Youtube, Portal, etc) and providing the same materials into different languages the prospective investors use. Foreign Exchange issues are more complicated. It can be a fear of depreciation of their local currencies against dollars and/or it can be a matter of regulation and relevant tax on their return. However, enabling cryptocurrencies may solve this problem where foreign investors buy cryptocurrencies in their local currency, transferring them to Fundrise’s account for further investments. Global regulations on cryptocurrency-based cross-border transfers(or investments) are by far difficult to establish as there are different views on cybermoney by nations and it takes time to achieve consensus.      
 
 
-  
-> What technologies would this additional product or service utilize?   
+**Why do you think that offering this product or service would benefit the company?**   
+
+> First of all, the more you make sure liquidity, the more individuals feel comfortable in using the platform. So far, you have been successful in lowering barriers investing in REITs, you may not keep that success unless you remove the clogs in your way to exit. Especially, people need quick cash in an uncertain environment like what we’ve been through for the last couple of months.
+
+> On the other hand, you need to have more spectrum in terms of new customers. You have already given services in the 50 states and been in operation for 8 years. Quite a lot of people might have heard about you and some of them might even have tried investments through your platform. Also, there is an increasing number of competitors in the market with a similar platform as yours. This means the US market is packed. You need to turn your eyes to the new demands beyond. You have been successful in bringing and implementing new ideas as a pioneer. Now you need to do that again to be a pioneer again for opening up the gate to the US eREITs market for foreign individuals who eager to widen their portfolio. Not only you watch a significant growth in your new accounts, but you may also be able to find a new market opportunity to extend your investments overseas for US individuals.
+
 
   
-> Why are these technologies appropriate for your solution?    
+**What technologies would this additional product or service utilize? **  
+
+  
+**Why are these technologies appropriate for your solution? **   
 
   
 
