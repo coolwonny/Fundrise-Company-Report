@@ -8,49 +8,49 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 
 **Fundrise** is the first investment platform to create a simple, low-cost way for anyone to invest in real estate by minimizing fees and unlocking access for individuals with relatively small money
 
-> Name of company      
+Name of company      
 
-   Fundrise 
+> Fundrise 
 
-> When was the company incorporated?   
+When was the company incorporated?   
   
-   Founded in 2010   
+> Founded in 2010   
 
-> Who are the founders of the company?    
+Who are the founders of the company?    
 
-   Brothers Ben and Dan Miller  
+> Brothers Ben and Dan Miller  
 
-> How did the idea for the company (or project) come about?    
+How did the idea for the company (or project) come about?    
 
-   The brothers founded the company with the idea to allow residents in the D.C. area to invest in real estate development projects they were building. They knew there was a better way to invest, but that the majority of investors couldn’t get access to private investment alternatives. By building the first private market, direct investment platform, we’ve now made it possible for the everyday investor to have a portfolio like the most sophisticated, multi-billion dollar investment funds.   
+> The brothers founded the company with the idea to allow residents in the D.C. area to invest in real estate development projects they were building. They knew there was a better way to invest, but that the majority of investors couldn’t get access to private investment alternatives. By building the first private market, direct investment platform, we’ve now made it possible for the everyday investor to have a portfolio like the most sophisticated, multi-billion dollar investment funds.   
 
-> How is the company funded? How much funding have they received?   
+How is the company funded? How much funding have they received?   
 
-   $56 million from Renren, Guggenheim Partners and others. 
+> $56 million from Renren, Guggenheim Partners and others. 
 
 
 
 ## Business Activities:
 
-> What specific financial problem is the company or project trying to solve?   
+What specific financial problem is the company or project trying to solve?   
 
-  The company saw the commercial real estate market had been dominated by institutional funds, creating inefiiciencies and distortions:   
+>  The company saw the commercial real estate market had been dominated by institutional funds, creating inefiiciencies and distortions:   
   - individual investors lack the size and market power to access quality real estate investments and therefore must rely on accessing investments through institutional channels, resulting in receiving less share of profits after deducting large fees, overhead, and profit sharing interests.  
   - Institutional funds tend to focus on large transactions in an effort to generate maximum profits relative to a fixed amount of work. This focus on only large transactions distorts the natural demand for these assets, increasing competition, and driving down returns. This further results in the individual, non-institutional investors receiving a lower relative risk-adjusted return.
 
-> Who is the company's intended customer?  Is there any information about the market size of this set of customers?  What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)   
+Who is the company's intended customer?  Is there any information about the market size of this set of customers?  What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)   
    
-   Fundrise focuses on individuals who wish to invest in real estate with small capital. The Starter level gives investors the opportunity to open a Fundrise account with a minimum initial investment of $500.   
+> Fundrise focuses on individuals who wish to invest in real estate with small capital. The Starter level gives investors the opportunity to open a Fundrise account with a minimum initial investment of $500.   
      
    The company owns and operates an online, direct investment technology platform called the Fundrise Platform. It enables thousands of individuals from across the country to create the scale of an institutional investor without the high fees and overhead typical of the old-fashioned investment business.  Investors use the Fundrise Platform to potentially earn attractive risk-adjusted returns from asset classes that have generally been closed to many investors and only available to high net worth investors and institutions.
 
    By combining sound investment principles with our proprietary web-based technology, we believe we have built a solution that will transform how the real estate capital markets operate, increasing their efficiency and transparency. Our model is built specifically to leverage the economies of scale created by the Internet to cut out excessive fees, while also lowering execution costs and reducing both time and manual resources.    
 
-   Fundrise offers two primary investments, eREITs and eFunds (eFunds will be covered a bit further down in this article).
+Fundrise offers two primary investments, eREITs and eFunds (eFunds will be covered a bit further down in this article).
 
-   eREITs are funds that invest in commercial real estate, including office buildings, retail shopping centers and related properties.
+eREITs are funds that invest in commercial real estate, including office buildings, retail shopping centers and related properties.
 
-   Fundrise offers seven different eREITs:
+Fundrise offers seven different eREITs:
   |East Coast eREIT| Holds debt and equity investments in commercial properties located on the East Coast. | 
   | -------------------------| ------------------------------------|   
   | Heartland eREIT | Uses the same investment approach, except with properties located specifically in the Midwest region. |    
@@ -61,21 +61,21 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
   | Growth eREIT V | New eREIT that has not yet acquired properties. Similar to the Growth eREIT, it will focus on capital appreciation. |     
 
 
-> Which technologies are they currently using, and how are they implementing them?   
+Which technologies are they currently using, and how are they implementing them?   
  
- Fundrise uses Java, Amazon CloudFront, Google Analytics, Mixpanel, G Suite and AdRoll for its technology.
+> Fundrise uses Java, Amazon CloudFront, Google Analytics, Mixpanel, G Suite and AdRoll for its technology.
 
 
 
 ## Landscape:
 
-> What domain of the financial industry is the company in?   
+What domain of the financial industry is the company in?   
 
- Alternative Investment – Real Estate
+> Alternative Investment – Real Estate
 
-> What have been the major trends and innovations of this domain over the last 5-10 years?   
+What have been the major trends and innovations of this domain over the last 5-10 years?   
 
-   Crowdfunding real estate investment platform are participating in and driving the third wave of a paradigm shift in the financial industry similar to the invention of and move to online brokerages and online payment systems that occurred in the late 1990s and 2000s, and the “marketplace lending” and automated registered investment advisor movements in the 2000s and 2010s.   
+> Crowdfunding real estate investment platform are participating in and driving the third wave of a paradigm shift in the financial industry similar to the invention of and move to online brokerages and online payment systems that occurred in the late 1990s and 2000s, and the “marketplace lending” and automated registered investment advisor movements in the 2000s and 2010s.   
 
    The first wave of this paradigm was from physical brokerages to online brokerages, such as E*TRADE Financial Corp., TD Ameritrade Corp., and Charles Schwab Corp. According to each of their Quarterly Reports on Form 10-Q for fiscal period ended March 31, 2019, E*TRADE Financial Corp., TD Ameritrade Corp., and Charles Schwab Corp. have grown their customer bases to 7,057,000, 11,763,000, and 11,787,000 accounts, respectively, with $593.0 billion, $1,297.1 billion, $3,5856.40 billion in client assets, respectively.    
 
@@ -84,10 +84,9 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
    However, unlike online brokerage platforms, online payment processors, marketplace lending platforms, or automated registered investment advisors, Fundrise is focused on sponsoring and directly offering to investors (without the costs associated with such intermediaries), alternative investments, in particular real estate, which, according to a Prequin report as of the end of 2017, as an asset class (defined as real estate, private equity and hedge funds) hit a record high of $8.8 trillion in 2017 and was forecast to grow to $14 trillion by 2023.
 
 
-> What are the other major companies in this domain?   
+What are the other major companies in this domain?   
 
-
-   There are two different entities in the real estate investment, the traditional REITs and the crowdfunding or Fintech-based ones.    
+> There are two different entities in the real estate investment, the traditional REITs and the crowdfunding or Fintech-based ones.    
 
    For traditional REITs, there are about 1,100 in the United States, among which 225 REITs are registered with the SEC that trade on one of the major stock exchanges - the majority on the NYSE.   
    If we narrow down to Fintech domain, Fundrise is competing with Realty Mogul and Crowdstreet. They all have common features in,   
@@ -106,11 +105,6 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
   | Fees | Fundrise and Crowdstreet are available in all 50 states. Realty Mogul doesn't indicate availability. |    
   | Availability| Offered by all three platforms. |
   | Income Distributions | Fundrise income distributions are monthly. Realty Mogul are monthly or quarterly. Crowdstreet distributions are monthly or less frequently, depending on the type of investment. |    
-
-
-
-
-
 
 
 ## Results
