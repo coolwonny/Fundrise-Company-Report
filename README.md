@@ -1,5 +1,5 @@
 # HW1
-SMU Fintech Bootcamp Homework 1 by Marcus Kim
+SMU Fintech Bootcamp Homework 1 by *Marcus Kim*
 
 # FUNDRISE
 
@@ -10,7 +10,7 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 
 **Name of company**      
 
-> Fundrise, LLC
+> Rise Companies Corp.
 
 **When was the company incorporated?**   
   
@@ -35,7 +35,8 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 **What specific financial problem is the company or project trying to solve?**   
 
 >  The company saw the commercial real estate market had been dominated by institutional funds, creating inefiiciencies and distortions:   
-  - individual investors lack the size and market power to access quality real estate investments and therefore must rely on accessing investments through institutional channels, resulting in receiving less share of profits after deducting large fees, overhead, and profit sharing interests.  
+  - individual investors lack the size and market power to access quality real estate investments and therefore must rely on accessing investments through institutional channels, resulting in receiving less share of profits after deducting large fees, overhead, and profit sharing interests.    
+
   - Institutional funds tend to focus on large transactions in an effort to generate maximum profits relative to a fixed amount of work. This focus on only large transactions distorts the natural demand for these assets, increasing competition, and driving down returns. This further results in the individual, non-institutional investors receiving a lower relative risk-adjusted return.
 
 **Who is the company's intended customer?  Is there any information about the market size of this set of customers?  What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**   
@@ -62,7 +63,7 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 
 **Which technologies are they currently using, and how are they implementing them?**   
  
-> Fundrise uses Java, Amazon CloudFront, Google Analytics, Mixpanel, G Suite and AdRoll for its technology.
+> Fundrise uses Java, Amazon CloudFront, Google Analytics, Mixpanel, G Suite and AdRoll for its technology, according to [Stackshare](https://stackshare.io/companies/fundrise).
 
 
 
@@ -70,7 +71,7 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 
 **What domain of the financial industry is the company in?**   
 
-> Alternative Investment – Real Estate
+> Alternative Investment – Real Estate, Crowdfunding.
 
 **What have been the major trends and innovations of this domain over the last 5-10 years?**   
 
@@ -115,7 +116,8 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 
 **What has been the business impact of this company so far?**    
 
-> The most outstanding impact is that Fundrise has made investors prefer to invest through a web and mobile platform rather thatn a conventional platform or in person process. According to the company, the average age of investors was approximately 37 years old. These impacts illustrate the changing preferences and demographic trends underway in the industry. Moreover, client assets under management on robo-advice platforms is forecast to continue to grow.
+> The most outstanding impact is that Fundrise has made investors prefer to invest through a web and mobile platform rather thatn a conventional platform or in person process. According to the company, the average age of investors was approximately 37 years old. These impacts illustrate the changing preferences and demographic trends underway in the industry. Moreover, client assets under management on robo-advice platforms is forecast to continue to grow.   
+
 ![Assets Managed on Digital Investment Platforms](Asset_managed_data.png)
 
 
@@ -133,6 +135,7 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 **How is your company performing relative to competitors in the same domain?**   
 
 > Based on the five-year net returns comparison with public REITs and public sotcks, represented by Vanguard Real Estate ETF and Vanguard Total Stock Market ETF, respectively, Fundrise outperformed the two benchmarks.   
+
 ![benchmark](Fundrise_5_year_Net_Return_Comparison.png)    
     
 > Also, here is an example comparing a Fundrise eREIT Portfolio and the Vanguard REIT ETF for two years with the same $1000 of initial investment. In Fundrise, we have a start-up that bought a concentrated basket of roughly 20 properties chosen from the private market. In Vanguard, we have a one of the largest real estate ETFs in the world that owns a passive slice of 184 public-traded REITs.
@@ -163,9 +166,12 @@ SMU Fintech Bootcamp Homework 1 by Marcus Kim
 > On the other hand, you need to have more spectrum in terms of new customers. You have already given services in the 50 states and been in operation for 8 years. Quite a lot of people might have heard about you and some of them might even have tried investments through your platform. Also, there is an increasing number of competitors in the market with a similar platform as yours. This means the US market is packed. You need to turn your eyes to the new demands beyond. You have been successful in bringing and implementing new ideas as a pioneer. Now you need to do that again to be a pioneer again for opening up the gate to the US eREITs market for foreign individuals who eager to widen their portfolio. Not only you watch a significant growth in your new accounts, but you may also be able to find a new market opportunity to extend your investments overseas for US individuals.  
 
 **What technologies would this additional product or service utilize? **  
-> Blockchain is the technology behind cryptocurrency.
-  
-**Why are these technologies appropriate for your solution? **     
+
+**What technologies would this additional product or service utilize?**
+ >Blockchain is the technology behind cryptocurrency.   
+
+
+**Why are these technologies appropriate for your solution?**
 
 > Blockchain technology can tokenize real property, assets can then be traded much like stocks on an exchange. In this way, a seller doesn't have to wait for a buyer who can afford the whole property in order to get some value out of their property.   
 By allowing fractional ownership, blockchain also lowers the barriers to real estate investing. Typically, investments would require significant money upfront in order to acquire property. Alternatively, investors with small capital could also pool their money to acquire bigger ticket properties. Through blockchain, investors would simply have to access a trading app to buy and sell even fractions of tokens as they see fit. In addition, fractional ownership would also help them avoid managing the properties themselves such as maintenance and leasing.
@@ -183,4 +189,3 @@ https://www.investopedia.com/news/how-blockchain-technology-changing-real-estate
 https://stackshare.io/companies/fundrise  
 https://www.nerdwallet.com/reviews/investing/brokers/fundrise
 
-```
