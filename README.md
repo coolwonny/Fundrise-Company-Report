@@ -165,8 +165,6 @@ SMU Fintech Bootcamp Homework 1 by *Marcus Kim*
 
 > On the other hand, you need to have more spectrum in terms of new customers. You have already given services in the 50 states and been in operation for 8 years. Quite a lot of people might have heard about you and some of them might even have tried investments through your platform. Also, there is an increasing number of competitors in the market with a similar platform as yours. This means the US market is packed. You need to turn your eyes to the new demands beyond. You have been successful in bringing and implementing new ideas as a pioneer. Now you need to do that again to be a pioneer again for opening up the gate to the US eREITs market for foreign individuals who eager to widen their portfolio. Not only you watch a significant growth in your new accounts, but you may also be able to find a new market opportunity to extend your investments overseas for US individuals.  
 
-**What technologies would this additional product or service utilize? **  
-
 **What technologies would this additional product or service utilize?**
  >Blockchain is the technology behind cryptocurrency.   
 
