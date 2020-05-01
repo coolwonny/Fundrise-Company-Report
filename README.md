@@ -77,11 +77,11 @@ SMU Fintech Bootcamp Homework 1 by *Marcus Kim*
 
 > Crowdfunding real estate investment platform are participating in and driving the third wave of a paradigm shift in the financial industry similar to the invention of and move to online brokerages and online payment systems that occurred in the late 1990s and 2000s, and the “marketplace lending” and automated registered investment advisor movements in the 2000s and 2010s.   
 
-> The first wave of this paradigm was from physical brokerages to online brokerages, such as E*TRADE Financial Corp., TD Ameritrade Corp., and Charles Schwab Corp. that have grown their customer bases to 7 million to 11.8million accounts with $593billion to $3.5tillion in client assets, respectively.    
+> The first wave of this paradigm was from physical brokerages to online brokerages, such as E*TRADE Financial Corp., TD Ameritrade Corp., and Charles Schwab Corp. that have grown their customer bases to 7 million to 11.8million accounts with $593billion to $3.5trillion in client assets, respectively.    
 
-> The second wave of this paradigm shift is represented by technology-driven asset management companies such automated registered investment advisors, such as Wealthfront Inc. and Betterment, LLC. that have grown their assets under management to c.$11.5 billion (with c.281K accounts) and $16.4 billion (with c.542K accounts), respectively.  
+> The second wave of this paradigm shift is represented by technology-driven asset management companies such automated registered investment advisors, such as Wealthfront Inc. and Betterment, LLC. that have grown their assets under management to c.$11.5billion (with c.281K accounts) and $16.4billion (with c.542K accounts), respectively.  
 
-> However, unlike online brokerage platforms, online payment processors, marketplace lending platforms, or automated registered investment advisors, Fundrise is focused on sponsoring and directly offering to investors (without the costs associated with such intermediaries), alternative investments, in particular real estate, which hit a record high of $8.8 trillion in 2017 and was forecast to grow to $14 trillion by 2023.
+> However, unlike online brokerage platforms, online payment processors, marketplace lending platforms, or automated registered investment advisors, Fundrise is focused on sponsoring and directly offering to investors (without the costs associated with such intermediaries), alternative investments, in particular real estate, which hit a record high of $8.8trillion in 2017 and was forecast to grow to $14trillion by 2023.
 
 > The end-to-end integrated technology platform transforms the real estate origination, underwriting, funding, and servicing processes; replacing expensive sales and management teams with online and mobile applications, implementing data driven decision-making, and automating transactions through payment processing APIs. Through the new platform, Fundrise allows an individual investor to invest in the value (price per square foot) and yields available in the private real estate market.
 
@@ -181,6 +181,7 @@ By allowing fractional ownership, blockchain also lowers the barriers to real es
 https://fundrise.com/   
 https://www.reit.com/what-reit/frequently-asked-questions-about-reits   
 https://en.wikipedia.org/wiki/Fundrise   
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640967&owner=exclude&count=40&hidefilings=0   
 https://www.mymoneyblog.com/fundrise-starter-portfolio-vs-reit-etf-review.html
 https://investorjunkie.com/reviews/fundrise/  
 https://investorjunkie.com/real-estate/fundrise-vs-realty-mogul-vs-crowdstreet/   
