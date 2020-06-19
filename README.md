@@ -1,5 +1,5 @@
-# HW1
-SMU Fintech Bootcamp Homework 1 by *Marcus Kim*
+# Fintech Case Study
+---
 
 # FUNDRISE
 
